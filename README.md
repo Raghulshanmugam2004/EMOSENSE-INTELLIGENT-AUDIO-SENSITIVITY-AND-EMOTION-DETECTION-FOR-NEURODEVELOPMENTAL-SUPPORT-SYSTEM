@@ -50,11 +50,12 @@ This project introduces an intelligent web-based platform that uses deep learnin
 
 ## System Architecture
 
+<img width="1536" height="1024" alt="ChatGPT Image Feb 5, 2026, 05_35_10 PM" src="https://github.com/user-attachments/assets/d9f40c6c-24d4-4ab6-b3bf-15ada69b520c" />
 
 
 ## Output
 
-]
+
 
 #### Output 1 – Emotion Detection Interface
 
